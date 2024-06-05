@@ -34,26 +34,24 @@
 // }
 
 
-
-
 // Q.3
 
-#include<stdio.h>
-int main(){
-   int first,secod,third;
+// #include<stdio.h>
+// int main(){
+//    int a;
+//    int firstdigit,lastdigit,sum;
+  
+//    printf("Enter your Number:");
+//    scanf("%d",&a);
+//     lastdigit=a%10;
+//     while (a!=0)
+//     {
+//       firstdigit=a;
+//       a=a/10;
+//     }
+//     sum=firstdigit+lastdigit;
+//     printf("%d",sum);
+    
 
-   printf("Enter your Firstvalue:");
-   scanf("%d",&first);
-
-   printf("Enter your Secondvalue:");
-   scanf("%d",&secod);
-
-   printf("Enter your Thirdvalue:");
-   scanf("%d",&third);
-
-   int sum=first+third;
-
-   printf("%d",sum);
-
-  return 0;
-}
+//   return 0;
+// }
